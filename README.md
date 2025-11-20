@@ -25,3 +25,5 @@ pip install faster-whisper sounddevice pynput
 ```
 python main.py
 ```
+
+Now, you with get video transcriptions wherever your cursor is, be it notepad or browser or some IDE.
